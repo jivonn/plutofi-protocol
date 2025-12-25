@@ -62,6 +62,18 @@ Mumbai Testnet (5 min)
 3.    Remix → Deploy 4 contracts → Update table
 4.    polygon.technology/grow → CGP $75k
 
+## Architecture
+
+- DualLending: USDC/EURC loans to REACH-compliant farms.
+- GreenOracle: checks 27 REACH chemicals + sustainability rules.
+- LandOracle: land value from MAG / other registries.
+- Insurance: 2% premium with parametric coverage.
+
+## Phase 1 Pilot
+
+- Paraguay: 10 farms, MAG API, $2M target TVL.
+- EU/Piedmont: 5 farms, REACH + NDVI, €1.5M target TVL.
+
 ## 📄 Grants & Funding
 - **Polygon CGP S2**: $75k → Mainnet + CertiK
 - **Horizon CL6**: €3M → REACH agri blockchain  
