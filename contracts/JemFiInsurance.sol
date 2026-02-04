@@ -44,6 +44,6 @@ contract JemFiInsurance is Ownable, ReentrancyGuard {
        require(p.active, "No policy");
        require(!p.paidOut, "Already paid");
 
-       p.paidOut
+       p.paidOut 
 
 
