@@ -11,3 +11,4 @@ function getLandValue(uint256 hectares) public view returns (uint256)
 return hectares * LAND_PRICE; // €2,950/haMAG Paraguay
     }
 }
+
